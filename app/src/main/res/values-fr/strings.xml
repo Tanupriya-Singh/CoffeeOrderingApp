@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">>
+    <string name="app_name">Juste Java2</string>
+    <string name="toppings">Garnitures</string>
+    <string name="thank_you">Je vous remercie</string>
+    <string name="total_quantity">quantité</string>
+    <string name="order_button">commande</string>
+    <string name="tv1">quantité</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="toppings1">crème fouettée</string>
+    <string name="toppings2">Chocolat</string>
+    <string name="chocolate">ajouter Chocolat ?</string>
+    <string name="whipped_cream">ajouter crème fouettée</string>
+    <string name="minus_button">-</string>
+    <string name="customer_name">Name:<xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="plus_button">+</string>
+</resources>
